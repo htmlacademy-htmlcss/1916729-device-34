@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Роман Марухленко](https://up.htmlacademy.ru/htmlcss/34/user/1916729).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Елькин](https://htmlacademy.ru/profile/alex_elkin).
 
 ---
 
